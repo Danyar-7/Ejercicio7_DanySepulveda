@@ -1,0 +1,45 @@
+body{
+    background: #b9e7ec;
+}
+nav{
+    width: 90%;
+}
+ul, ol{
+    list-style: none;
+}
+nav ul li{
+    display: inline-block;
+    border: 1px solid red;
+    background: white;
+}
+nav ul ol li{
+    background: green;
+    display: block;
+    width: 8%;
+    position: relative;
+    right: -60px;
+}
+nav ul li a{
+    color: black;
+    text-decoration: none;
+    padding: 5px;
+    display: block;
+    font-size: 15px;
+}
+nav ul li:hover{
+    background: #a7d0d4;
+}
+#Actual{
+    background:#a7d0d4;
+}
+h1{
+    text-align: center;
+}
+div{
+    text-align: center;
+    background: #fff;
+    border-radius: 5px;
+    width: 90%;
+    margin: 0 50px;
+    padding: 0.3%;
+}
