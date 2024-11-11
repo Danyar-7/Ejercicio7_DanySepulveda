@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+form{
+    width: 400px;
+    background: black;
+    margin: auto;
+    margin-top: 100px;
+    border-radius:4px;
+    color: white;
+    padding: 30px;
+}
+h4{
+    font-size: 26px;
+    margin-bottom: 25px;
+    text-align: center;
+}
+.control, .boton{
+    width: 100%;
+    background: black;
+    padding: 10px;
+    margin-bottom: 15px;
+    font-size: 18px;
+    color:beige;
+}
+
+form p{
+    height: 40px;
+    text-align: center;
+    font-size: 18px;
+    margin-bottom: 10px;
+    
+}
+form a{
+    color: rgb(185, 185, 67);
+    text-decoration: none;
+}
+.boton{
+    background: blue;
+}
+input[type="text"]:hover,
+input[type="email"]:hover,
+input[type="password"]:hover{
+    border-color: #b15b2a;
+    background-color: rgb(204, 179, 67);
+}
+#checkbox{
+    text-align: left;
+}
+
