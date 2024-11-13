@@ -1,5 +1,9 @@
 body{
+<<<<<<< HEAD
     background: #b9e7ec;
+=======
+    background: #ff5e00;
+>>>>>>> 607454488b51725f52370b211a2a83f91dde7413
 }
 nav{
     width: 90%;
@@ -30,10 +34,18 @@ nav ul li:hover{
     background: #a7d0d4;
 }
 #Actual{
+<<<<<<< HEAD
     background:#a7d0d4;
 }
 h1{
     text-align: center;
+=======
+    background:#f00741;
+}
+h1{
+    text-align: center;
+    color:green;
+>>>>>>> 607454488b51725f52370b211a2a83f91dde7413
 }
 div{
     text-align: center;
@@ -42,4 +54,15 @@ div{
     width: 90%;
     margin: 0 50px;
     padding: 0.3%;
+<<<<<<< HEAD
+=======
+}
+img{
+    width: 300px;
+    height: auto;
+}
+table{
+    margin-left: 200px;
+    background-color: rgb(238, 187, 21);
+>>>>>>> 607454488b51725f52370b211a2a83f91dde7413
 }
