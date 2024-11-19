@@ -18,11 +18,9 @@ nav ul li:hover, #Actual {
 h1{
     text-align: center;
 }
-div{
+#copyright{
     text-align: center;
     background: #fff;
-    border-radius: 5px;
-    width: 90%;
 }
 img{
     width: 250px;
